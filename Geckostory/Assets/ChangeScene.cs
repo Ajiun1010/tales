@@ -5,11 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class ChangeScene : MonoBehaviour
 {
- 
 
-    // Update is called once per frame
-   public void Change()
+    public void Change(string sceneName)
     {
-        SceneManager.LoadScene("my_vr_scene_2");
+        SceneManager.LoadScene(sceneName);
     }
 }
