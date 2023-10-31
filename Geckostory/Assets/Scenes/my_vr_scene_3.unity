@@ -10844,6 +10844,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1973746163}
   - component: {fileID: 1973746162}
+  - component: {fileID: 1973746164}
+  - component: {fileID: 1973746165}
   m_Layer: 0
   m_Name: Scene_3
   m_TagString: Untagged
@@ -10891,6 +10893,48 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1973746164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1973746161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e1386aea7021ba41904c80e71ce9e5e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1973746165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1973746161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: cbb4abc3e37f1d54ca4f42ed2440497e, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1973746164}
+          m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
+          m_MethodName: Change
+          m_Mode: 5
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: my_vr_scene_4
+            m_BoolArgument: 0
+          m_CallState: 2
 --- !u!1001 &1977250622
 PrefabInstance:
   m_ObjectHideFlags: 0
