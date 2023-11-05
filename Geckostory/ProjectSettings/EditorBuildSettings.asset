@@ -20,7 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/my_vr_scene_3.unity
     guid: f98e217a74a7e2f489954ab9d6f15eb1
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/my_vr_scene_4.unity
     guid: bba0808e84f431a40b2388f3dfaaad07
   - enabled: 0
