@@ -486,13 +486,13 @@ Light:
   m_GameObject: {fileID: 388646695}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 2
+  m_Type: 0
   m_Shape: 0
-  m_Color: {r: 1, g: 0.97998565, b: 0.9137255, a: 1}
+  m_Color: {r: 1, g: 0.6992937, b: 0.37254906, a: 1}
   m_Intensity: 1
   m_Range: 11.48
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
+  m_SpotAngle: 19
+  m_InnerSpotAngle: 19
   m_CookieSize: 10
   m_Shadows:
     m_Type: 0
@@ -547,13 +547,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 388646695}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.182, y: 1.302, z: 0.663}
+  m_LocalRotation: {x: 0.65882957, y: -0, z: -0, w: 0.7522923}
+  m_LocalPosition: {x: -0.019, y: 2.704, z: 0.45}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 82.421, y: 0, z: 0}
 --- !u!95 &400928739 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 7942372878415807488, guid: b1bb5c1a33cc259438c3cf96d9c7fbbb,
@@ -2025,7 +2025,8 @@ PrefabInstance:
       value: 0.475
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 4915743964003024162, guid: a7451636bdf199f49959bc6e883d0e4b, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 7490657279763187911, guid: a7451636bdf199f49959bc6e883d0e4b,
         type: 3}
