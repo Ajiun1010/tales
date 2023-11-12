@@ -361,50 +361,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 166557059}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &198393280
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 198393282}
-  - component: {fileID: 198393281}
-  m_Layer: 0
-  m_Name: SceneCh
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &198393281
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 198393280}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5e1386aea7021ba41904c80e71ce9e5e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &198393282
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 198393280}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.11808546, y: 0.93596643, z: -1.6017913}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &231509583
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -895,7 +851,6 @@ GameObject:
   m_Component:
   - component: {fileID: 929535274}
   - component: {fileID: 929535273}
-  - component: {fileID: 929535275}
   m_Layer: 0
   m_Name: Scene_9
   m_TagString: Untagged
@@ -949,36 +904,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &929535275
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 929535272}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Events:
-    m_Signals:
-    - {fileID: 11400000, guid: cbb4abc3e37f1d54ca4f42ed2440497e, type: 2}
-    m_Events:
-    - m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 198393281}
-          m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
-          m_MethodName: Change
-          m_Mode: 5
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: The_End
-            m_BoolArgument: 0
-          m_CallState: 2
 --- !u!1001 &965825402
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3644,4 +3569,3 @@ SceneRoots:
   - {fileID: 929535274}
   - {fileID: 1171463572}
   - {fileID: 1577420773}
-  - {fileID: 198393282}
