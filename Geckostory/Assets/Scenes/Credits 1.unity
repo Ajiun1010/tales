@@ -266,7 +266,7 @@ Transform:
   m_GameObject: {fileID: 244303780}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.7749219, z: -0, w: 0.63205695}
-  m_LocalPosition: {x: -3.02, y: 0.3, z: 8.02}
+  m_LocalPosition: {x: -5.99, y: 0.3, z: 8.02}
   m_LocalScale: {x: 0.3308356, y: 0.3308356, z: 0.3308356}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -392,7 +392,7 @@ Transform:
   m_GameObject: {fileID: 338490330}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.44, y: 0.17, z: 7.27}
+  m_LocalPosition: {x: 5.05, y: 0.17, z: 7.27}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -820,55 +820,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Tosin Olufon
-
-
-    Tosin Olufon
-
-
-    Tosin Olufon
-
-
-    Tosin Olufon
-
-
-    Justice
-    Amadichukwu
-
-
-    Gbenga Sawyerr
-
-
-    Jon Higgins
-
-
-    Mo
-
-
-    Special Thanks
-
-
-    Special
-    Thanks
-
-
-    Special Thanks
-
-
-    Special Thanks
-
-
-    Special Thanks
-
-
-    Special
-    Thanks
-
-
-    Stories
-
-
-    Idea Board'
+  m_text: "Tosin Olufon\n\nTosin Olufon\n\nTosin Olufon\n\nTosin Olufon\n\nEze Music
+    Justice Amadichukwu\n\nGbenga Sawyerr \n\nJon Higgins\n\nMo\n\nPrayer Warrior/Aladura\n\nBank
+    of England/Monitoring Spirit\n\nLAPO 999/Monitoring Spirit\n\nSupporters Club\n\nAcademic
+    Police/Inspiration\n\nSpecial Thanks\n\nFolk Stories\n\nIdea Board"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1153,7 +1108,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Creative Director\n\nMocap and Animation\n\nEnvironment Artist\n\nProject
-    Manager\n\nSound Design\n\nNarrator\n\nDeveloper\n\nSinging\n\nMother\n\nMuyiwa
+    Manager\n\nSound Design\n\nSexy Voice Narrator\n\nDeveloper\n\nSinging\n\nMother\n\nMuyiwa
     \n\nTope\n\nYaya\n\nUncle Demola\n\nTechCity\n\nUncle Derin\n\nUncleBrodami"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1256,7 +1211,7 @@ Transform:
   m_GameObject: {fileID: 1277246821}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.99557215, z: -0, w: 0.09400092}
-  m_LocalPosition: {x: -0.31, y: 0.32, z: 8.23}
+  m_LocalPosition: {x: -3.28, y: 0.32, z: 8.23}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1360,7 +1315,7 @@ Transform:
   m_GameObject: {fileID: 1463979409}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.79, y: 0.6, z: 8.342999}
+  m_LocalPosition: {x: 1.4000008, y: 0.6, z: 8.342999}
   m_LocalScale: {x: 0.70832, y: 0.70832, z: 0.70832}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1411,6 +1366,8 @@ PlayableDirector:
     value: {fileID: 679290334}
   - key: {fileID: -8653191024189131729, guid: d41223e4b14dd6e4cb3be7f5138e9108, type: 2}
     value: {fileID: 1100866958}
+  - key: {fileID: -1989846055003578466, guid: d41223e4b14dd6e4cb3be7f5138e9108, type: 2}
+    value: {fileID: 582578960}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1747127514
