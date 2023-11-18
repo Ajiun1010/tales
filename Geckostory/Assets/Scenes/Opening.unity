@@ -1991,7 +1991,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 5
+      value: 0.54
       mode: 0
       spread: 0
       speed:
@@ -2549,7 +2549,7 @@ ParticleSystem:
       maxGradient:
         serializedVersion: 2
         key0: {r: 0.754717, g: 0.15236738, b: 0.3877929, a: 1}
-        key1: {r: 1, g: 0.2584905, b: 0.91598177, a: 1}
+        key1: {r: 1, g: 1, b: 1, a: 1}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -6005,7 +6005,7 @@ Transform:
   m_GameObject: {fileID: 1435315637}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0.46335158, y: 1.3903896, z: 0.73036265}
+  m_LocalPosition: {x: 0.329, y: 0.69, z: 0.768}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
