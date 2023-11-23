@@ -17,31 +17,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/my_vr_scene_2.unity
     guid: d330678c737f72b47a8cc35c7c8e77de
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/my_vr_scene_3.unity
     guid: f98e217a74a7e2f489954ab9d6f15eb1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/my_vr_scene_4.unity
     guid: bba0808e84f431a40b2388f3dfaaad07
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/my_vr_scene_5.unity
     guid: 6df8c1bdae6a8a54893c9838775b87cf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/my_vr_scene_6.unity
     guid: 7a8e5e20fc1f1114d896964306dac550
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/my_vr_scene_7.unity
     guid: 3487841afe8054540b109711e6ec159f
-  - enabled: 1
-    path: Assets/Scenes/my_vr_scene_8.unity
-    guid: 86cf60439ddcbb84da2feeb6aaf43f05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/my_vr_scene_9.unity
     guid: 5b83dc9d0fae75c45941bc7e308a54df
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/The_End.unity
     guid: 7d4e49aafc764b34bbdbc03f99ed1eb1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Credits_1.unity
     guid: b5cabe59068bdcf49bc20d3360214f56
   m_configObjects:
